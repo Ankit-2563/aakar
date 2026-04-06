@@ -14,10 +14,10 @@ const italiana = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Aakar Portfolio",
+  title: "Aakar",
   description: "Premium architecture portfolio",
   icons: {
-    icon: "/assets/icon.png",
+    icon: "/assets/icon.svg",
   },
   openGraph: {
     images: ["/assets/og-image.png"],
