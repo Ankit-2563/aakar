@@ -14,22 +14,22 @@ export const ROUTES = {
 // Aakar Contact & Details
 export const AAKAR_INFO = {
   // TODO replace with actual details
-  email: "hello@aakar.com",
+  email: "teamaakarofficial@gmail.com",
   socials: {
-    instagram: "https://instagram.com/aakar",
+    instagram: "https://www.instagram.com/aakar.in_/",
     linkedin: "https://linkedin.com/company/aakar",
   },
   // TODO replace with actual founder details
   founders: [
     {
-      name: "Founder One",
-      role: "Co-Founder",
-      phone: "+91 00000 00000", 
+      name: "Pratham Mewada",
+      role: "Co-Founder, Operation Head",
+      phone: "+91 77382 83814", 
     },
     {
-      name: "Founder Two", 
-      role: "Co-Founder",
-      phone: "+91 00000 00000",
+      name: "Tripti Singh", 
+      role: "Co-Founder, Design Head",
+      phone: "+91 99200 36244",
     },
   ],
 };
