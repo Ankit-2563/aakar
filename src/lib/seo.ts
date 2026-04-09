@@ -1,4 +1,4 @@
-export const NEXT_PUBLIC_SITE_URL = process.env.NEXT_PUBLIC_SITE_URL;
+export const NEXT_PUBLIC_SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://aakar.in";
 
 // Keep this updated with trending keywords in your niche (Architecture, Design)
 export const TRENDING_KEYWORDS = [

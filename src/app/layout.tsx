@@ -19,6 +19,7 @@ export const metadata: Metadata = {
   description: SEO_CONFIG.description,
   keywords: SEO_CONFIG.keywords,
   metadataBase: new URL(SEO_CONFIG.url),
+  alternates: { canonical: SEO_CONFIG.url },
   openGraph: {
     title: SEO_CONFIG.title.default,
     description: SEO_CONFIG.description,
