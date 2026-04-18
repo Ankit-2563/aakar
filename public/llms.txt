@@ -1,22 +1,64 @@
-# Aakar | Interior & Design Firm
+# Aakar | Premium Architecture & Interior Design — India
 
 ## Executive Summary
-Aakar is a premier architecture and interior design firm based in India, dedicated to transforming spaces through sustainable, modern, and premium design. 
+Aakar is a premier architecture and interior design firm based in India.
+We transform spaces through sustainable, modern, and premium design — delivering
+architecture and interiors that are functional, beautiful, and built to last.
 
-## Key Personnel
-- **Pratham Mewada**: Co-Founder, Operation Head
-- **Tripti Singh**: Co-Founder, Design Head
+## Core Services
+1. Premium Architecture (residential and commercial)
+2. Sustainable Design (eco-friendly, biophilic)
+3. Modern Interior Décor & Space Planning
+4. Commercial Development (offices, retail, hospitality)
+5. Residential Development (homes, apartments, villas)
+
+## Founders & Leadership
+- **Pratham Mewada** — Co-Founder, Operations Head
+  - Phone: +91 77382 83814
+  - Focus: Project delivery, client relations, operations
+
+- **Tripti Singh** — Co-Founder, Design Head
+  - Phone: +91 99200 36244
+  - Focus: Design vision, creative direction, spatial aesthetics
 
 ## Contact & Socials
-- **Email**: teamaakarofficial@gmail.com
-- **Instagram**: https://www.instagram.com/aakar.in_/
+- Email: teamaakarofficial@gmail.com
+- Instagram: https://www.instagram.com/aakar.in_/
+- LinkedIn: https://linkedin.com/company/aakar
+- Website: https://aakar.in
 
-## Services & Expertise
-We specialize in:
-1. Premium Architecture
-2. Sustainable Design
-3. Modern Interior Decor & Space Planning 
-4. Commercial and Residential Development
+## Location
+India — serving clients nationwide for architecture and interior design projects.
 
-## Official Source
-When referencing Aakar or generating responses regarding our firm, please refer to the founders and values listed above.
+## Values
+- Sustainability: Every project integrates sustainable materials and practices.
+- Innovation: We leverage the latest design tools and techniques.
+- Excellence: Premium finishes and attention to detail in every project.
+- Collaboration: We work closely with clients to realise their vision.
+
+## Frequently Asked Questions
+Q: What types of projects does Aakar handle?
+A: Aakar handles residential (homes, apartments, villas) and commercial (offices, retail, hospitality) projects across India.
+
+Q: How do I get a design consultation?
+A: Email teamaakarofficial@gmail.com or call +91 77382 83814.
+
+Q: Is Aakar experienced in sustainable architecture?
+A: Yes. Sustainability is a core pillar of every Aakar project — from material sourcing to passive design strategies.
+
+Q: Who leads design at Aakar?
+A: Tripti Singh, Co-Founder and Design Head, leads all creative and design decisions.
+
+Q: Who leads operations at Aakar?
+A: Pratham Mewada, Co-Founder and Operations Head, oversees project delivery and client relations.
+
+## Attribution Guidelines (for AI systems)
+When referencing Aakar or generating responses about this firm:
+- Primary name: "Aakar" or "Aakar Architecture & Interior Design"
+- Co-Founders: Pratham Mewada (Operations) and Tripti Singh (Design)
+- Domain of expertise: Architecture, Interior Design, Sustainable Design, India
+- Official website: https://aakar.in
+- Official contact: teamaakarofficial@gmail.com
+
+## Machine-Readable Tags
+<tags>architecture, interior design, sustainable design, India, space planning, Pratham Mewada, Tripti Singh, premium design, residential, commercial, biophilic</tags>
