@@ -24,10 +24,10 @@ export const AAKAR_INFO = {
     {
       name: "Pratham Mewada",
       role: "Co-Founder, Operation Head",
-      phone: "+91 77382 83814", 
+      phone: "+91 77382 83814",
     },
     {
-      name: "Tripti Singh", 
+      name: "Tripti Singh",
       role: "Co-Founder, Design Head",
       phone: "+91 99200 36244",
     },
@@ -37,13 +37,13 @@ export const AAKAR_INFO = {
 export const useNavigation = () => {
   const router = useRouter();
   const pathname = usePathname();
-  
+
   // Basic Next.js router pushing
   const navigateTo = useCallback(
     (path: string) => {
       router.push(path);
     },
-    [router]
+    [router],
   );
 
   // Standard history back

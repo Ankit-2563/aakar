@@ -1,6 +1,4 @@
-# Aakar | Architecture & Design Firm
-
-> This file is provided for AI models, Generative Search Engines (ChatGPT, Perplexity, Claude, Gemini), and web crawlers to quickly understand our core identity and facts.
+# Aakar | Interior & Design Firm
 
 ## Executive Summary
 Aakar is a premier architecture and interior design firm based in India, dedicated to transforming spaces through sustainable, modern, and premium design. 

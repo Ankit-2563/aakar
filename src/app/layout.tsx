@@ -30,7 +30,7 @@ export const metadata: Metadata = {
         url: "/assets/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Aakar Architecture",
+        alt: "Aakar Interior",
       },
     ],
     locale: "en_IN",
